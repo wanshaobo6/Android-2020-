@@ -17,7 +17,9 @@ import com.example.wsb.pojo.Food;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
+    
+    //GitHub : https://github.com/wanshaobo6/Android-2020-
+    
     SQLiteOpenHelper helper;
     SQLiteDatabase sqLiteDatabase;
 
